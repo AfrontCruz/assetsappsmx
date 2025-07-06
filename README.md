@@ -1,0 +1,2 @@
+# assetsappsmx
+Only assets
